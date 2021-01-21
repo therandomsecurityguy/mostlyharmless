@@ -1,8 +1,8 @@
 +++
-date = "2016-09-25T02:11:48-05:00"
+date = "2021-01-20T02:11:48-05:00"
 description = "guests of the show"
-title = "Guests of HugoCast"
+title = "Guests of Mostly Harmless Running"
 aliases = "/guests"
 +++
 
-Want to be a guest on the HugoCast? Send us an email!
+Want to be a guest on the Mostly Harmless Running podcast? Send us an [email](mailto:mhrpod@gmail.com)!

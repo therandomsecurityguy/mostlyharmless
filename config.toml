@@ -60,7 +60,7 @@ buildFuture = true
 [params]
 mainSections = ["episode"]
 episode_number_style  = "brackets"
-episode_number_prefix = "CWC"
+episode_number_prefix = "MHR"
 site_theme = "grey"
 # site_layout = "grid"
 site_layout = "row"
@@ -121,13 +121,13 @@ disqusShortname = ""
         instagram = "mk_runs"
     [params.authors.Alyssa]
 			name = "Alyssa"
-			thumbnail = ""
+			thumbnail = "img/host/alyssa.png"
 			bio = ""
 				[params.authors.Alyssa.social]
 					instagram = "alfeuerer"
     [params.authors.Katie]
       name = "Katie"
-      thumbnail = ""
+      thumbnail = "img/host/walnuts.png"
       bio = ""
       [params.authors.Katie.social]
         instagram = "katie_walnuts"

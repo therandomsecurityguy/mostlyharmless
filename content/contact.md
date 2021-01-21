@@ -4,4 +4,4 @@ title = "contact"
 
 +++
 
-Add stuff
+Send us an [email](mailto:mhrpod@gmail.com) if you have any ideas that you want us to discuss or to be a guest on the show!

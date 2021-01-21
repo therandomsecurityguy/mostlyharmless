@@ -4,6 +4,4 @@ description = "What We're About"
 title = "about"
 
 +++
-
-## We love running
-You should love it too!
+---
