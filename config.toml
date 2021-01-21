@@ -41,21 +41,21 @@ buildFuture = true
     identifier = "guests"
     url = "/guest"
 
-[[Menu.Main]]
-    name = "Upcoming Episodes"
-    identifier = "upcoming"
-    url = "/upcoming"
+#[[Menu.Main]]
+#    name = "Upcoming Episodes"
+#    identifier = "upcoming"
+#    url = "/upcoming"
 
-[[Menu.Main]]
-    name = "Books"
-    identifier = "books"
-    url = "/books"
-    parent = "resources"
-[[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
-    url = "/books"
-    parent = "resources"
+#[[Menu.Main]]
+#    name = "Books"
+#    identifier = "books"
+#    url = "/books"
+#    parent = "resources"
+#[[Menu.Main]]
+#    name = "Podcasts"
+#    identifier = "podcasts"
+#    url = "/books"
+#    parent = "resources"
 
 [params]
 mainSections = ["episode"]
@@ -85,7 +85,7 @@ disqusShortname = ""
     itunes_summary = "This podcast features candid conversations with everyday runners. We share stories about our training, races, what we eat and the wild and ridiculous things that happen to us through it all. We keep it mostly harmless."
     itunes_owner_name = "Mostly Harmless Running"
     itunes_owner_email = "mostlyharmlessrunning@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
-    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    itunes_image = "https://raw.githubusercontent.com/therandomsecurityguy/mostlyharmless/main/static/img/mostly.png" #fqdn to the image art for your podcast
     itunes_top_category = "Health & Fitness"
     itunes_first_sub_category = "Fitness"
     language = "en-us"
@@ -104,7 +104,7 @@ disqusShortname = ""
     subscribe_size = "medium"         # options: small, medium, big
     subscribe_format = "rectangle"    # options: rectangle, square, cover
     subscribe_style = "filled"        # options: filled, outline, frameless
-    subscribe_language = "de"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+    subscribe_language = "en"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
     subscribe_feed_type = "audio"     # options: audio, video
     subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
@@ -114,12 +114,12 @@ disqusShortname = ""
 
   [params.authors]
     [params.authors.Matt]
-      name	= "Mostly Harmless Running"
+      name	= "Happy Matt"
       thumbnail = "img/host/matt.png"
       bio = ""
       [params.authors.Matt.social]
         instagram = "mk_runs"
-    [params.authors.Trevor]
+    [params.authors.Alyssa]
 			name = "Alyssa"
 			thumbnail = ""
 			bio = ""
