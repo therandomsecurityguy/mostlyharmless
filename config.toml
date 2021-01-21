@@ -1,7 +1,7 @@
 baseurl = "https://mostlyharmlessrunning.com/"
 languageCode = "en-us"
 title = "Mostly Harmless Running"
-theme = "castanet-master"
+theme = "castanet"
 googleAnalytics = ""
 themesdir = "../.."
 paginate = "5"
