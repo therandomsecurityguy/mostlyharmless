@@ -41,22 +41,6 @@ buildFuture = true
     identifier = "guests"
     url = "/guest"
 
-#[[Menu.Main]]
-#    name = "Upcoming Episodes"
-#    identifier = "upcoming"
-#    url = "/upcoming"
-
-#[[Menu.Main]]
-#    name = "Books"
-#    identifier = "books"
-#    url = "/books"
-#    parent = "resources"
-#[[Menu.Main]]
-#    name = "Podcasts"
-#    identifier = "podcasts"
-#    url = "/books"
-#    parent = "resources"
-
 [params]
 mainSections = ["episode"]
 episode_number_style  = "brackets"
@@ -74,7 +58,6 @@ copyright_notice = "Copyright 2021 [Mostly Harmless Running](https://github.com/
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/mostly-harmless-running/id1452070673&ls=1"
 android_subscribe = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3Byb3Jlci9mZWVkLnhtbA%3D%3D"
 spotify_subscribe = "https://open.spotify.com/show/..."
-# rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "This podcast features candid conversations with everyday runners. We share stories about our training, races, what we eat and the wild and ridiculous things that happen to us through it all. We keep it mostly harmless."
 media_prefix = "https://f000.backblazeb2.com/file/mostlyharmless/"
 disqusShortname = ""
