@@ -3,15 +3,14 @@ languageCode = "en-us"
 title = "Mostly Harmless Running"
 theme = "alphacast"
 googleAnalytics = ""
-themesdir = "../.."
+#themesdir = "../.."
 paginate = "5"
 buildFuture = true
 
-[module]
-
-  [[module.imports]]
-    path = "https://github.com/therandomsecurityguy/alphacast"
-    disable=false
+#[module]
+#  [[module.imports]]
+#    path = "https://github.com/therandomsecurityguy/alphacast"
+#    disable=false
 
 [taxonomies]
   category = "categories"
