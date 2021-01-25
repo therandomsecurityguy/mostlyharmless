@@ -8,7 +8,7 @@ cover.out
 .DS_Store
 dist
 public
-#themes/*
+themes/*
 wrangler.toml
 workers-site
 
