@@ -1,11 +1,17 @@
 baseurl = "https://mostlyharmlessrunning.com/"
 languageCode = "en-us"
 title = "Mostly Harmless Running"
-theme = "castanet"
+theme = "alphacast"
 googleAnalytics = ""
 themesdir = "../.."
 paginate = "5"
 buildFuture = true
+
+[module]
+
+  [[module.imports]]
+    path = "https://github.com/therandomsecurityguy/alphacast"
+    disable=false
 
 [taxonomies]
   category = "categories"
