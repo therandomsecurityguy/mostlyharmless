@@ -15,6 +15,12 @@ YouTube = ""
 +++
 Midwestern runner🏃‍♀️
 
-I dig a good view 🌄
+Alyssa runs for many reasons and looks at every run as a little adventure. She loves to use running as a way to explore her own neighborhood and other cities she visits.
 
-Currently parked in Louisville, KY 🐎
+Favorite Shoe: `Hoka Rincon`
+
+Favorite Food: `Cheese`
+
+Favorite Beer:  `Lakefront Brewery Riverwest Stein`
+
+Favorite Cocktail: `Gin & Tonic`
