@@ -1,4 +1,4 @@
-baseurl = "https://mostlyharmlessrunning.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Mostly Harmless Running"
 theme = "alphacast"
