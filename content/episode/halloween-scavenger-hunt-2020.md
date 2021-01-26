@@ -15,5 +15,5 @@ title = "Halloween Scavenger Hunt 2020"
 youtube = ""
 categories = []
 series = []
-tags = []
+tags = ["Scavenger Hunt", "2020", "Halloween"]
 +++
