@@ -29,8 +29,3 @@ deploy:
 	git push -u origin master
 
 	@echo "Pushed to remote"
-
-.PHONY: publish
-publish:
-	@echo "Publishing to Cloudflare Workers"
-	wrangler publish
