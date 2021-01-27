@@ -1,6 +1,6 @@
-[submodule "themes/castanet"]
-	path = themes/castanet
-	url = https://github.com/therandomsecurityguy/castanet
+[submodule "themes/alphacast"]
+	path = themes/alphacast
+	url = https://github.com/therandomsecurityguy/alphacast
 [submodule "alphacast"]
 	path = alphacast
 	url = git@github.com:therandomsecurityguy/alphacast.git

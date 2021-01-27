@@ -42,18 +42,18 @@
 .grid_episode_detail {
   background-color: #000;
   padding: 10px;
-  color: $castanet-middle-container-bg;
+  color: $alphacast-middle-container-bg;
 }
 
 .grid_episode_title {
-  color: $castanet-middle-container-bg;
+  color: $alphacast-middle-container-bg;
   > h3 {
     text-transform: capitalize;
   }
 }
 .grid_episode_title:hover {
   text-decoration: none;
-  color: $castanet-middle-container-bg;
+  color: $alphacast-middle-container-bg;
 }
 
 .row_latest_episode_title {
@@ -63,26 +63,26 @@
 }
 .row_latest_episode_title:hover {
   text-decoration: none;
-  color: $castanet-main-container-bg;
+  color: $alphacast-main-container-bg;
 }
 
 .sidebar_general {
-    background-color: $castanet-sidebar-bg;
+    background-color: $alphacast-sidebar-bg;
     // border-radius:15px;
     padding-top: 15px;
     padding-bottom: 15px;
     margin-bottom: 40px;
 }
 .sidebar_headline {
-    color: $castanet-middle-container-bg;
+    color: $alphacast-middle-container-bg;
     font-family: 'Lato', sans-serif;
     margin-top: 0;
 }
 // html body {
-//   background-color: $castanet-body-bg;
+//   background-color: $alphacast-body-bg;
 // }
 .middle_container {
-    background-color: $castanet-middle-container-bg;
+    background-color: $alphacast-middle-container-bg;
 }
 .hero_container {
     padding-left: 0;
@@ -90,7 +90,7 @@
     padding-top: 20px;
 }
 .main_container {
-    background-color: $castanet-main-container-bg;
+    background-color: $alphacast-main-container-bg;
     margin-top: 20px;
     padding-left: 0;
     padding-right: 0;
@@ -104,11 +104,11 @@
 }
 .footer_copyright {
   > a {
-    color: $castanet-middle-container-bg;
+    color: $alphacast-middle-container-bg;
   }
     padding-right: 40px;
     padding-top: 10px;
-    color: $castanet-middle-container-bg
+    color: $alphacast-middle-container-bg
 }
 .sidebar_col {
     padding-top: 40px !important;
