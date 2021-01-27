@@ -15,5 +15,5 @@ title = "Bringing in the RD"
 youtube = ""
 categories = []
 series = []
-tags = ["Guest", "2020", "Race", "Director"]
+tags = ["Guest", "2020", "Race", "Director", "Eagle Up"]
 +++
