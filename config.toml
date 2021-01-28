@@ -89,11 +89,11 @@ disqusShortname = ""
     theme_color="#ffffff"
 
   [params.podlove] # https://subscribe-button.podlove.org
-    subscribe_title = ""              # fallback: site title from above
-    subscribe_subtitle = ""           # fallback: ""
-    subscribe_description = ""        # fallback: ""
-    subscribe_cover = "img/logo.jpg"  # fallback: ""
-    subscribe_color = "#585e6c"       # fallback: ""
+    subscribe_title = "Mostly Harmless Running"              # fallback: site title from above
+    subscribe_subtitle = "The best running podcast ever...well...maybe one of the best"           # fallback: ""
+    subscribe_description = "This podcast features candid conversations with everyday runners. We share stories about our training, races, what we eat and the wild and ridiculous things that happen to us through it all. We keep it mostly harmless."        # fallback: ""
+    subscribe_cover = "img/mostly-harmless-logo.png"  # fallback: ""
+    subscribe_color = "#469cd1"       # fallback: ""
     subscribe_size = "medium"         # options: small, medium, big
     subscribe_format = "rectangle"    # options: rectangle, square, cover
     subscribe_style = "filled"        # options: filled, outline, frameless
