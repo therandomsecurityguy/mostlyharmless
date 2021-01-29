@@ -225,6 +225,9 @@ button {
   border-radius: 0;
 }
 
+button, [type="button"], [type="reset"], [type="submit"] {
+	border: none !important; }
+
 button:focus {
   outline: 1px dotted;
   outline: 5px auto -webkit-focus-ring-color;
@@ -425,7 +428,7 @@ small,
   text-transform:uppercase;
 }
 
-small a {
+small a { 
 	text-transform: none;
 	font-style: italic;
 }
@@ -469,7 +472,7 @@ mark,
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -2404,7 +2407,7 @@ textarea.form-control {
 .btn:hover {
   color: #e5ea0a;
   text-decoration: none;
-  background-color:#257c31;
+  background-color:#257c31;	
 }
 .btn:focus, .btn.focus {
   outline: 0;
@@ -3975,6 +3978,9 @@ input[type=button].btn-block {
 }
 
 .navbar-collapse {
+  flex-basis: 100%;
+  flex-grow: 1;
+  align-items: center;
   background-color: #320e3d;
 	position:absolute;
 	top:90px;
@@ -3988,10 +3994,6 @@ input[type=button].btn-block {
   font-size: 1.25rem;
   line-height: 1;
   background-color: #fff200;
-}
-
-button, [type="button"], [type="reset"], [type="submit"] {
-	border: none !important;
 }
 .navbar-toggler:hover, .navbar-toggler:focus {
   text-decoration: none;
@@ -4226,7 +4228,7 @@ button, [type="button"], [type="reset"], [type="submit"] {
   margin: 0 1rem;
 }
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
-  color: #ffffff !important;
+  color: #ffffff !important;	
 }
 .navbar-light .navbar-nav .nav-link.disabled {
   color: rgba(0, 0, 0, 0.3);
@@ -6211,7 +6213,7 @@ button.bg-dark:focus {
 
 .rounded-circle {
   border-radius: 50% !important;
-  border: solid #fff200 0.2rem;
+  border: solid #fff200 0.2rem;	
 }
 
 .rounded-pill {
@@ -10031,7 +10033,7 @@ img.jssocials-share-logo {
   margin-top: 10px !important;
   margin-bottom: 0;
   margin-right: 0 !important;
-  padding: 0 5px !important;
+  padding: 0 5px !important;	
 }
 
 a.social-links { color: #61c13b !important;}
@@ -10531,3 +10533,4 @@ a {
   width: auto;
 }
 /*# sourceMappingURL=grey.css.map */
+
