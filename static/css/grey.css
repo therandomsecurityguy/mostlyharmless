@@ -225,9 +225,6 @@ button {
   border-radius: 0;
 }
 
-button, [type="button"], [type="reset"], [type="submit"] {
-	border: none !important; }
-
 button:focus {
   outline: 1px dotted;
   outline: 5px auto -webkit-focus-ring-color;
@@ -472,7 +469,7 @@ mark,
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -3981,19 +3978,13 @@ input[type=button].btn-block {
   flex-basis: 100%;
   flex-grow: 1;
   align-items: center;
-  background-color: #320e3d;
-	position:absolute;
-	top:90px;
-	right:35px;
-	text-align:center;
-	padding:20px;
 }
 
 .navbar-toggler {
-  padding: 0.25rem 0.25rem;
+  padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: #fff200;
+  background-color: transparent;
 }
 .navbar-toggler:hover, .navbar-toggler:focus {
   text-decoration: none;
@@ -10533,4 +10524,3 @@ a {
   width: auto;
 }
 /*# sourceMappingURL=grey.css.map */
-
