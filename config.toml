@@ -129,9 +129,9 @@ disqusShortname = ""
       [params.links.store]
         name = "Team Store"
         url = "https://pr-or-er.com/"
-#      [params.links.ffs]
-#        name = "Food Fight Show"
-#        url = "https://foodfightshow.org"
+      [params.links.strava]
+        name = "Strava"
+        url = "https://www.strava.com/clubs/PRorER"
 #      [params.links.sdt]
 #        name = "Software Defined Talk"
 #        url = "https://cote.io/podcasts/sdt/"
