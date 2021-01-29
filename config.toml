@@ -67,7 +67,7 @@ favicon = "/icon/favicon-32x32.png"
 copyright_notice = "Copyright 2021 [Mostly Harmless Running](https://github.com/therandomsecurityguy/mostlyharmless/blob/main/LICENSE)"
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/mostly-harmless-running/id1452070673&ls=1"
 android_subscribe = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3Byb3Jlci9mZWVkLnhtbA%3D%3D"
-spotify_subscribe = "https://open.spotify.com/show/..."
+spotify_subscribe = "https://open.spotify.com/show/6JWXa7lkWT1kkP6QFyVcM7"
 description = "This podcast features candid conversations with everyday runners. We share stories about our training, races, what we eat and the wild and ridiculous things that happen to us through it all. We keep it mostly harmless."
 media_prefix = "https://f000.backblazeb2.com/file/mostlyharmless/"
 disqusShortname = ""
@@ -88,18 +88,18 @@ disqusShortname = ""
     msapplication_tilecolor="#2b5797"
     theme_color="#ffffff"
 
-  [params.podlove] # https://subscribe-button.podlove.org
-    subscribe_title = "Mostly Harmless Running"              # fallback: site title from above
-    subscribe_subtitle = "The best running podcast ever...well...maybe one of the best"           # fallback: ""
-    subscribe_description = "This podcast features candid conversations with everyday runners. We share stories about our training, races, what we eat and the wild and ridiculous things that happen to us through it all. We keep it mostly harmless."        # fallback: ""
-    subscribe_cover = "img/mostly.png"  # fallback: ""
-    subscribe_color = "#92278f"       # fallback: ""
-    subscribe_size = "medium"         # options: small, medium, big
-    subscribe_format = "rectangle"    # options: rectangle, square, cover
-    subscribe_style = "filled"        # options: filled, outline, frameless
-    subscribe_language = "en"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
-    subscribe_feed_type = "audio"     # options: audio, video
-    subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
+  #[params.podlove] # https://subscribe-button.podlove.org
+  #  subscribe_title = "Mostly Harmless Running"              # fallback: site title from above
+  #  subscribe_subtitle = "The best running podcast ever...well...maybe one of the best"           # fallback: ""
+  #  subscribe_description = "This podcast features candid conversations with everyday runners. We share stories about our training, races, what we eat and the wild and ridiculous things that happen to us through it all. We keep it mostly harmless."        # fallback: ""
+  #  subscribe_cover = "img/mostly.png"  # fallback: ""
+  #  subscribe_color = "#92278f"       # fallback: ""
+  #  subscribe_size = "medium"         # options: small, medium, big
+  #  subscribe_format = "rectangle"    # options: rectangle, square, cover
+  #  subscribe_style = "framless"        # options: filled, outline, frameless
+  #  subscribe_language = "en"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+  #  subscribe_feed_type = "audio"     # options: audio, video
+  #  subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
   [params.social]
     github = "therandomsecurityguy"
