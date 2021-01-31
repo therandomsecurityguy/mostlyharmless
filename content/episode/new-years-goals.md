@@ -13,6 +13,7 @@ podcast_file = "New_Years_Goals.mp3"
 podcast_bytes = ""
 title = "New Year's Goals"
 youtube = ""
+sponsors = ["saltstick"]
 categories = []
 series = []
 tags = ["PRorER", "2021", "Training"]
