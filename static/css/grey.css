@@ -469,7 +469,7 @@ mark,
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -3978,6 +3978,18 @@ input[type=button].btn-block {
   flex-basis: 100%;
   flex-grow: 1;
   align-items: center;
+}
+
+.navbar-collapse.show {
+   background-color:#320e3d;
+}
+
+.navbar-collapse.show li {
+   border-bottom: solid 1px #92278f;
+}
+
+.navbar-collapse.show li a {
+   display:inline-block; 
 }
 
 .navbar-toggler {
