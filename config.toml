@@ -81,6 +81,7 @@ disqusShortname = ""
     itunes_image = "https://raw.githubusercontent.com/therandomsecurityguy/mostlyharmless/main/static/img/mostly.png" #fqdn to the image art for your podcast
     itunes_top_category = "Health & Fitness"
     itunes_first_sub_category = "Fitness"
+    explicit = "no"
     language = "en-us"
 
   [params.realfavicongenerator] # https://realfavicongenerator.net/
