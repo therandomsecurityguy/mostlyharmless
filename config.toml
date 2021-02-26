@@ -8,11 +8,6 @@ paginate = "5"
 buildFuture = true
 enableRobotsTXT = true
 
-#[module]
-#  [[module.imports]]
-#    path = "https://github.com/therandomsecurityguy/alphacast"
-#    disable=false
-
 [taxonomies]
   category = "categories"
   series = "series"
