@@ -1,6 +1,6 @@
 +++
 Description = "We have a winner! Meet Colleen Hanson, our scavenger hunt winner. Happy Matt, Alyssa, and Katie interview Colleen and discuss her path from couch-to-5k-to-marathon. Her story is one that many people will relate to, from struggle to success. Enjoy!"
-aliases = ["/27"]
+aliases = []
 author = "Happy Matt"
 date = "2021-03-05T18:37:07-05:00"
 episode = "27"
