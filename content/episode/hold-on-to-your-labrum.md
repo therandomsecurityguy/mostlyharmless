@@ -1,6 +1,6 @@
 +++
 Description = "Matt & Alyssa chat with fellow [PRorER](https://pr-or-er.com/) team mate, Nate Ferrier, who is working on his come back after a hip surgery in October 2018. We talk about the injury, the surgery, the recovery process and the ultra he's going to attempt 4 months after going under the knife."
-aliases = ["/2"]
+aliases = []
 author = "Happy Matt"
 date = "2019-02-12T08:00:00-05:00"
 episode = "2"

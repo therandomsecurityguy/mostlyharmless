@@ -1,6 +1,6 @@
 +++
 Description = "Races cancelled. It's the story we got used to for 2020. What does 2021 have in store for the crew? Happy Matt, Alyssa, and Katie catch up on what goals they are planning for in 2021 and staying motivated!"
-aliases = ["/26"]
+aliases = []
 author = "Happy Matt"
 date = "2021-01-31T08:27:07-05:00"
 episode = "26"

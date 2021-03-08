@@ -1,6 +1,6 @@
 +++
 Description = "What does it feel like to crush your goals? In this podcast, [PRorER](https://pr-or-er.com/) alums Matt and Alyssa discuss their experience and success at the Jackpot Ultra Running Festival."
-aliases = ["/3"]
+aliases = []
 author = "Happy Matt"
 date = "2019-02-26T08:00:00-05:00"
 episode = "3"

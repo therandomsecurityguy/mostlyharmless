@@ -1,6 +1,6 @@
 +++
 Description = "In this podcast, [PRorER](https://pr-or-er.com/) alums Matt and Alyssa discuss their favorite ultra races, gear, and food leading up to the [Jackpot Ultra Fest](http://www.beyondlimitsrunning.com/limitlessevents/JackpotUltraRunning)."
-aliases = ["/1"]
+aliases = []
 author = "Happy Matt"
 date = "2019-02-09T08:00:00-05:00"
 episode = "1"

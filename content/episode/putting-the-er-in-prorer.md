@@ -1,6 +1,6 @@
 +++
 Description = "Happy Matt and Alyssa play catch up on recent races run and introduce a new co-host, PRorER alum Katie! She talks about coming back from a serious injury, keys to her recovery, and a packed 2020 race schedule."
-aliases = ["/14"]
+aliases = []
 author = "Happy Matt"
 date = "2020-02-28T08:14:07-05:00"
 episode = "14"

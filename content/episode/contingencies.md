@@ -1,6 +1,6 @@
 +++
 Description = "What happens when your race takes a different turn? Matt and Alyssa talk with fellow [PRorER](https://pr-or-er.com/) teammates, Liz and Ryan, to discuss what happen before/during/after their last ultra. They share their stories of what they learned and path forward to redemption!"
-aliases = ["/7"]
+aliases = []
 author = "Happy Matt"
 date = "2019-04-02T08:00:00-05:00"
 episode = "7"

@@ -1,6 +1,6 @@
 +++
 Description = "Eat all the food....adjust to all the heat. Meet Jake, a [PRorER](https://pr-or-er.com/) alum. Jake talks about how he started running and how he got started with the team. On a personal note, Jake is one of the great wingmen around. He has paced a few members to personal bests and is always willing to meet up for a run. Enjoy!"
-aliases = ["/21"]
+aliases = []
 author = "Happy Matt"
 date = "2020-08-14T08:14:07-05:00"
 episode = "21"

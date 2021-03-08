@@ -1,6 +1,6 @@
 +++
 Description = "Matt & Alyssa chat with fellow [PRorER](https://pr-or-er.com/) team mate, Cory Kind, who recently placed 1st in the women's 24 hour at the Jackpot Ultra Festival. Discussions include PR's set, sleep, and....RAMEN!"
-aliases = ["/5"]
+aliases = []
 author = "Happy Matt"
 date = "2019-03-14T08:00:00-05:00"
 episode = "5"

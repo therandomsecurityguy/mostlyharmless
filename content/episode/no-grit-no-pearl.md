@@ -1,6 +1,6 @@
 +++
 Description = "Meet Erin. A newer member of the [PRorER](https://pr-or-er.com/) fam, with a heart of a veteran. Happy Matt and Katie interview Erin as she talks about international racing, snacks, grit, and being one bad a$$ runner"
-aliases = ["/20"]
+aliases = []
 author = "Happy Matt"
 date = "2020-07-24T10:14:07-05:00"
 episode = "20"

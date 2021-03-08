@@ -1,6 +1,6 @@
 +++
 Description = "Let's face it. Running can be hard. Running can be harder when you have a disease or disorder. Katie, Alyssa, and Happy Matt talk with a distance runner [Sam](https://www.instagram.com/willrun4insulin/), who runs while living with type 1 diabetes. Sam talks about the adjustments she has made and her training plans to become an amazing runner! Check out her site as well: [Will Run for Insulin](https://willrunforinsulin.com/)"
-aliases = ["/23"]
+aliases = []
 author = "Happy Matt"
 date = "2020-10-12T11:10:04-05:00"
 episode = "23"

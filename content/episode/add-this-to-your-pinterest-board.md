@@ -1,6 +1,6 @@
 +++
 Description = "[PRorER](https://pr-or-er.com/) alums Matt and Alyssa play a game of catch up, discussing their recent ultras, global travels, and their upcoming races. Enjoy!"
-aliases = ["/10"]
+aliases = []
 author = "Happy Matt"
 date = "2019-05-29T08:14:07-05:00"
 episode = "10"

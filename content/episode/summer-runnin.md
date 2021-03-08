@@ -1,6 +1,6 @@
 +++
 Description = "How do YOU acclimate to the summer heat? Happy Matt, Alyssa (welcome back!), and Katie discuss their summer running regime for surviving the heat. Chafe much? You won't after this episode!"
-aliases = ["/18"]
+aliases = []
 author = "Happy Matt"
 date = "2020-06-05T07:14:07-05:00"
 episode = "18"

@@ -1,6 +1,6 @@
 +++
 Description = "Matt & Alyssa chat with fellow [PRorER](https://pr-or-er.com/) team mate, [Clare Farrow](https://www.instagram.com/claree_elizabeth/), who recently ran her first 24 hour race at the [24 Hours of Palmer Lake Death Race](https://ultrasignup.com/results_event.aspx?did=64155). Clare talks about her journey, from Couch to 5k to running ultras like a BEAST! She is proof that hard work pays off!"
-aliases = ["/9"]
+aliases = []
 author = "Happy Matt"
 date = "2019-05-14T08:14:07-05:00"
 episode = "9"

@@ -1,6 +1,6 @@
 +++
 Description = "It's almost Halloween and the MHR team is ready to hunt! It's time for the [Halloween Scavenger Hunt](https://www.instagram.com/p/CGx7Efbnsjy/)! After answering some Reddit Running questions, the team discuss the details for the upcoming scavenger hunt!"
-aliases = ["/24"]
+aliases = []
 author = "Happy Matt"
 date = "2020-10-27T04:10:04-05:00"
 episode = "24"
