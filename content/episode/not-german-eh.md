@@ -16,5 +16,5 @@ youtube = ""
 sponsors = []
 categories = []
 series = []
-tags = ["PRorER", "2021", "Training", "Triathlete", Global]
+tags = ["PRorER", "2021", "Training", "Triathlete", "Global"]
 +++
